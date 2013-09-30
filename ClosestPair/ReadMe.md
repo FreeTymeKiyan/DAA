@@ -9,6 +9,7 @@ input:
 .txt file with the points following format
 
 eg:
+
 1,0
 
 2,1
