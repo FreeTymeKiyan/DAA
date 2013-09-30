@@ -1,5 +1,8 @@
 *.py[cod]
 
+# docx files
+*.docx
+
 # C extensions
 *.so
 
